@@ -38,8 +38,7 @@ These categories are going to be grouped based on 3 main values:
                                • Monetary (M)=> how much each customer has paid for our products.
 
 Note: there are many groups for each of the R, F, and M features, there are also many potential permutations, this number is too much to manage in terms of marketing strategies. 
-For this, we would decrease the permutations by getting the average scores of the ![Capture](https://user-images.githubusercontent.com/129599070/233680025-42d8b691-e69d-45cf-92fe-edc5731a51ec.JPG)
-frequency and monetary to consider them as one score named FM score.
+For this, we would decrease the permutations by getting the average scores of the frequency and monetary to consider them as one score named FM score.
 Moreover, Customers were labelled based on the following values:
 ![image](https://user-images.githubusercontent.com/129599070/233680259-ff581ce9-0fa0-483b-9519-f499f0a34d91.png)
 
